@@ -1,15 +1,15 @@
 # 👋 Hello, I'm Yash Borse!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React+Native+Expert+%E2%98%95;HAL+Aerospace+Intern+%E2%9C%88%EF%B8%8F;Scalable+Solutions+Architect+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=28&duration=3500&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+🚀;Spring+Boot+%7C+React+Native+Developer+📱;Aerospace+Software+Intern+at+HAL+✈️;Building+Scalable+%26+Secure+Solutions+💡" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yashborse.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashborse)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashborse)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashborse432005@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yashborse.tech-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashborse.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Borse-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashborse)
+[![GitHub](https://img.shields.io/badge/GitHub-Yashborse4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashborse4)
+[![Email](https://img.shields.io/badge/Email-yashborse432005%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashborse432005@gmail.com)
 
 </div>
 
@@ -17,60 +17,31 @@
 
 ## 🎯 **About Me**
 
-> **"Code is poetry written in logic"** 
+> **"Turning complex logic into elegant, high-performance software."**
 
-**Full Stack Developer** with proven experience in building **scalable web applications** using Spring Boot, Java, and React. Currently excelling as a **Cross-Platform Mobile Developer** intern at **HAL (Hindustan Aeronautics Limited)**, where I architect enterprise-grade solutions that transform business operations.
+I am a **Full-Stack Engineer** specializing in **Spring Boot** backends and **React Native** cross-platform mobile apps. Currently, I am a **Cross-Platform Mobile Developer Intern** at **HAL (Hindustan Aeronautics Limited)**, where I architect secure, offline-first mobile ecosystems that modernize critical enterprise operations.
 
-🎯 **Professional Summary:**
-- Skilled in **REST APIs, GraphQL, MySQL, and Docker** with expertise in clean, maintainable code
-- Specialized in delivering **responsive, secure, and high-performance solutions**
-- Proficient in **Agile methodologies, Git workflows, JWT authentication, and CI/CD pipelines**
-- Proven track record of reducing operational errors by **45%** and improving system efficiency
-
-🔥 **What drives me:**
-- Building scalable applications that make a difference
-- Exploring emerging technologies and their practical applications
-- Contributing to open-source communities
-- Mentoring aspiring developers
+### 🌟 Key Highlights:
+* 🚀 **Enterprise Solutions**: Successfully built operational software deployed in high-security, low-network aerospace environments.
+* 🛡️ **Security-First**: Experienced in implementing secure JWT/OAuth protocols, encrypted local storage, and strict role-based access control (RBAC).
+* ⚙️ **Performance Driven**: Passionate about multi-threading, caching, and database query optimization to scale backend microservices.
+* 📦 **DevOps & Integrity**: Proficient in containerization with Docker, event-driven architecture with Kafka, and clean Git workflows.
 
 ---
 
-## 🚀 **Tech Arsenal**
+## 🛠️ **Tech Stack & Tooling**
 
 <div align="center">
 
-### **Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### **API Development & Architecture**
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=auth0&logoColor=white)
-
-### **Databases & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### **Tools, Testing & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Backend Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Mobile & Frontend** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
+| **APIs & Security** | ![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat-square&logo=api&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![JWT / Auth](https://img.shields.io/badge/-JWT%20%2F%20OAuth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Databases & Event Broker** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) |
+| **DevOps & Containers** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Testing & Productivity** | ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
 
 </div>
 
@@ -78,207 +49,92 @@
 
 ## 💼 **Professional Experience**
 
-### 🛩️ **Cross-Platform Mobile Developer (React Native) @ HAL**
-**Hindustan Aeronautics Limited** • *Oct 2024 - Present*
-
-🚀 **Key Achievements:**
-- **Reduced inspection errors by 45%** and audit rework time by **30%** through offline-first mobile ecosystem development
-- **Decreased device misuse incidents by 65%** with custom Android launcher and strict user controls
-- **Improved audit compliance by 90%** through enhanced UI/UX design implementation
-- **Reduced unauthorized actions by 70%** via role-based access controls and cybersecurity integration
-
-💡 **Technical Contributions:**
-- 📱 Developed **offline-first mobile ecosystem** for secure, cross-platform enterprise applications using **React Native** and **JavaScript**
-- 🎨 Translated design wireframes into high-quality, production-ready code with optimized performance
-- 🔒 Engineered **encrypted local data storage** and secure synchronization workflows for offline/low-network environments
-- ⚙️ Implemented **Redux for state management** and **SQLite for offline data storage** with responsive UI components
-- 🛡️ Collaborated with cybersecurity teams to enforce **role-based access controls** and secure frontend interactions
-- 📱 Created **custom Android launcher** with enhanced UI/UX and strict operational controls
+### 🛩️ **Cross-Platform Mobile Developer Intern**
+**Hindustan Aeronautics Limited (HAL)** • *Oct 2024 - Present*
+* **Offline-First Ecosystem**: Architected and developed a robust, secure React Native mobile ecosystem for internal auditing in low-to-no network areas, resulting in a **45% reduction in inspection errors** and cutting audit rework time by **30%**.
+* **Device Hardening**: Built a custom, hardened Android launcher and MDM agent to restrict device usage, cutting device misuse incidents by **65%**.
+* **Offline Storage & Sync**: Engineered an encrypted local data storage workflow utilizing **SQLite** and **Redux**, enabling instant audits with 100% data integrity upon server re-sync.
+* **Access Control & Compliance**: Designed and implemented strict role-based access controls (RBAC) in partnership with cybersecurity teams, decreasing unauthorized actions by **70%** and improving overall audit compliance by **90%**.
 
 ---
 
-## 🎓 **Academic Projects**
+## 🚀 **Featured Projects**
 
-### 🚗 **Car Selling Platform**
-**Full-Stack Web Application**
+<div align="center">
 
-🔧 **Technical Implementation:**
-- Built scalable platform using **Spring Boot** with **RESTful and GraphQL APIs** for real-time data updates
-- Secured all endpoints with **Spring Security, JWT tokens, and OAuth authentication** for robust access control
-- Adopted **microservice architecture** for modular services, significantly improving system scalability and performance
-- Integrated comprehensive user management and vehicle listing functionalities
+### **Featured Repositories**
 
-### 📁 **Duplicate File Detection System**
-**High-Performance Java Application**
+| Project Name | Description | Technologies |
+| :--- | :--- | :--- |
+| 🔍 **[Duplicate File Detection](https://github.com/Yashborse4/Duplicate-File-Detection-System)** | Multi-threaded file checking application leveraging SHA-256 and bit-by-bit checking for data consistency. | `Java`, `MySQL`, `Apache Kafka`, `Docker` |
+| 🏢 **[Campus Surveillance](https://github.com/Yashborse4/Campus-Surveillance)** | Real-time computer vision monitoring tool tracking student and visitor movements in defined campus zones. | `Python`, `OpenCV`, `TensorFlow` |
+| 📱 **[DailyWorkerApp](https://github.com/Yashborse4/DailyWorkerApp)** | Cross-platform workspace log and verification tracker for gig and on-site daily workers. | `React Native`, `TypeScript`, `Redux` |
+| 📧 **[AutoSMS Mailer](https://github.com/Yashborse4/AutoSMS-Mailer)** | Privacy-first utility that processes incoming SMS triggers offline and routes notifications immediately to email. | `Kotlin`, `Android SDK` |
+| 🤖 **[AI Support Bot](https://github.com/Yashborse4/ai-customer-support-bot)** | High-throughput, context-aware chatbot for company support ticketing using advanced text embeddings. | `Python`, `OpenAI API`, `FastAPI` |
+| 📈 **[Forex Gold Trading Bot](https://github.com/Yashborse4/Forex-Trading-Bot-)** | Strategy-based algorithmic gold (XAUUSD) trading bot utilizing backtested risk management. | `Python`, `MetaTrader API` |
 
-🚀 **Performance Optimizations:**
-- Developed efficient duplicate detection using **SHA-256 hashing** and **bit-by-bit comparison** for accurate file analysis
-- Implemented **MySQL** for optimized storage and retrieval of file metadata and hashes, ensuring data integrity
-- Leveraged **Executor Service for parallel processing**, dramatically improving performance and reducing execution time
-- Integrated **Apache Kafka** for event-driven notifications and **Docker** for containerized deployment
-- Achieved scalability and consistency across multiple deployment environments
+</div>
 
 ---
 
-## 🎨 **What Makes Me Unique**
+## 🎨 **Developer Profile**
 
 ```javascript
 const yashBorse = {
-    role: "Full Stack Developer",
-    currentFocus: "Cross-Platform Mobile Development at HAL",
-    
-    // 🎯 Core Competencies
-    backendExpertise: [
-        "Spring Boot", "Java", "Python", "Docker", 
-        "MySQL Database Management", "Microservices Architecture"
-    ],
-    
-    apiDevelopment: [
-        "REST APIs", "GraphQL", "WebSockets",
-        "JWT Authentication", "OAuth Integration"
-    ],
-    
-    frontendSkills: [
-        "React Native", "JavaScript", "TypeScript",
-        "CSS-in-JS (Styled Components)", "UI/UX Design",
-        "Redux State Management"
-    ],
-    
-    // 🧠 Soft Skills
-    professionalTraits: [
-        "Team Player", "Problem Solver", "Results-Oriented",
-        "Leadership", "Agile/Scrum Methodologies"
-    ],
-    
-    // ⚡ Development Practices
-    testingAndPractices: [
-        "Unit Testing", "Jest", "CI/CD Basics",
-        "Clean Code Principles", "Version Control (Git)"
-    ],
-    
-    philosophy: "Every line of code should solve real problems",
-    
-    measurableImpact: {
-        inspectionErrorReduction: "45%",
-        auditComplianceImprovement: "90%",
-        unauthorizedActionReduction: "70%",
-        deviceMisuseReduction: "65%"
-    }
+  role: "Full Stack Engineer",
+  currentInternship: "Cross-Platform Mobile Dev @ HAL",
+  
+  coreCompetencies: {
+    backend: ["Spring Boot", "Java Core", "Python (Django/FastAPI)", "Microservices"],
+    frontend: ["React Native", "TypeScript/JavaScript", "Redux", "CSS-in-JS"],
+    databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
+    devops: ["Docker Containers", "Apache Kafka", "Git Workflows", "CI/CD Setup"]
+  },
+  
+  engineeringPhilosophy: "Write secure, optimized, and offline-first code that solves real business problems.",
+  
+  measurableImpacts: {
+    auditInspectionErrors: "-45%",
+    auditReworkTime: "-30%",
+    unauthorizedActions: "-70%",
+    complianceScore: "+90%"
+  }
 };
 ```
 
 ---
 
-## 🎯 **Current Focus Areas & Expertise**
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-**🔧 Backend Development**
-<br>
-**Java** • **Spring Boot**
-<br>
-**Python** • **Docker**
-<br>
-**MySQL** Database Management
-
-</td>
-<td align="center" width="25%">
-
-**🔌 API Architecture**
-<br>
-**REST APIs** • **GraphQL**
-<br>
-**WebSockets** • **JWT**
-<br>
-**OAuth** • **Microservices**
-
-</td>
-<td align="center" width="25%">
-
-**📱 Mobile Development**
-<br>
-**React Native** • **JavaScript**
-<br>
-**TypeScript** • **Redux**
-<br>
-**Offline-First Architecture**
-
-</td>
-<td align="center" width="25%">
-
-**⚡ DevOps & Testing**
-<br>
-**CI/CD** • **Unit Testing**
-<br>
-**Jest** • **Agile/Scrum**
-<br>
-**Version Control** • **Git**
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashborse4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashborse4&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashborse4&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 **Achievement Showcase**
+## 📊 **GitHub Analytics & Activity**
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Yashborse4&theme=radical&no-frame=true&margin-w=15)
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Yashborse4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Yash's GitHub Stats" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashborse4&layout=compact&langs_count=8&theme=tokyonight" alt="Yash's Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashborse4&theme=tokyonight" alt="GitHub Streak Stats" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yashborse4&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 💡 **Innovation Philosophy**
+## 🤝 **Let's Collaborate!**
 
-> *"In the intersection of technology and creativity lies the power to transform ideas into reality"*
-
-I believe in:
-- **🎯 Purpose-Driven Development**: Every project should solve a real problem
-- **🔄 Continuous Learning**: Technology evolves, and so should we
-- **🤝 Collaborative Growth**: The best solutions come from diverse perspectives
-- **⚡ Performance & Elegance**: Code should be both efficient and beautiful
-
----
-
-## 🌟 **Let's Build Something Amazing Together!**
+Are you looking for a robust Spring Boot backend developer, a fast React Native mobile architect, or a full-stack engineer who is passionate about building scalable, secure enterprise workflows?
 
 <div align="center">
-  
-**Ready to collaborate on your next big idea?**
 
-Whether you need a robust backend system, a sleek mobile app, or a full-stack solution, I'm here to turn your vision into reality!
+**[📩 Send me an Email](mailto:yashborse432005@gmail.com)** &nbsp;•&nbsp; **[💼 Let's Connect on LinkedIn](https://linkedin.com/in/yashborse)**
 
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white)](mailto:yashborse432005@gmail.com)
+<br/>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Yashborse4&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile views" />
 
----
-
-<div align="center">
-  
-**"Code. Create. Innovate. Repeat."** 🚀
-
-<img src="https://komarev.com/ghpvc/?username=Yashborse4&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-
-*⭐ From [Yashborse4](https://github.com/Yashborse4) with ❤️*
+*⭐ Designed with ❤️ by [Yashborse4](https://github.com/Yashborse4) *
 
 </div>
