@@ -108,16 +108,16 @@ const yashBorse = {
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Yashborse4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Yash's GitHub Stats" />
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashborse4&layout=compact&langs_count=8&theme=tokyonight" alt="Yash's Top Languages" />
+<img height="185em" src="https://github-readme-stats-fast.vercel.app/api?username=Yashborse4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Yash's GitHub Stats" />
+<img height="185em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yashborse4&layout=compact&langs_count=8&theme=tokyonight" alt="Yash's Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashborse4&theme=tokyonight" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=Yashborse4&theme=tokyonight" alt="GitHub Streak Stats" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yashborse4&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Yashborse4&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
