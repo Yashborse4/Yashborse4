@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Yash Borse!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=28&duration=3500&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+🚀;Spring+Boot+%7C+React+Native+Developer+📱;Aerospace+Software+Intern+at+HAL+✈️;Building+Scalable+%26+Secure+Solutions+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=28&duration=3500&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+🚀;Spring+Boot+%7C+React+Native+Developer+📱;Software+Engineer+Intern+at+HAL+✈️;Building+Scalable+%26+Secure+Solutions+💡" alt="Typing SVG" />
 </div>
 
 <div align="center">
